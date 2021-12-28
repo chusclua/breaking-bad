@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/breaking_bad_list"
+        android:icon="@drawable/ic_heisenberg"
+        android:title="@string/breaking_bad_title" />
+
+    <item
+        android:id="@+id/better_call_saul_list"
+        android:icon="@drawable/ic_lawyer"
+        android:title="@string/better_call_saul_title" />
+
+    <item
+        android:id="@+id/favorites_list"
+        android:icon="@drawable/ic_favorites"
+        android:title="@string/favorites" />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Breaking Bad</string>
+
+    <!-- BottomNavigationView -->
+    <string name="breaking_bad_title">Breaking Bad</string>
+    <string name="better_call_saul_title">Better Call Saul</string>
+    <string name="favorites">Favorites</string>
+</resources>
